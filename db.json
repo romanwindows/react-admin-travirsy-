@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "new post 1(upd)",
+      "body": "this is the post body 1 (update)",
+      "publishedAt": "2020-10-01"
+    },
+    {
+      "id": "2",
+      "title": "post 2",
+      "body": "this is the post body 2",
+      "publishedAt": "10-02-2020"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Roman",
+      "email": "romalevkiv@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Serg",
+      "email": "levkiv@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Kolya",
+      "email": "levkiv.kolya@gmail.com"
+    },
+    {
+      "name": "Yaroslav",
+      "email": "yar@gmail.com",
+      "id": "O3YmbM8"
+    },
+    {
+      "name": "myros",
+      "email": "myr@gmail.com",
+      "id": "fs_dN4k"
+    },
+    {
+      "name": "dfgd",
+      "email": "sdfs",
+      "id": "swimgs3"
+    },
+    {
+      "name": "fsdfs",
+      "email": "sfs",
+      "id": "yxhm_uJ"
+    }
+  ]
+}
