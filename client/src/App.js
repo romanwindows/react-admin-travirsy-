@@ -14,5 +14,5 @@ function App() {
     <Resource name='users' list={UserList} create={UserCreate} edit={UserEdit}/>
   </Admin>);
 }
-
+// comment
 export default App;
