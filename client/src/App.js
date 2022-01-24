@@ -7,8 +7,6 @@ import UserList from "./components/user/UserList";
 import UserCreate from "./components/user/UserCreate";
 import UserEdit from "./components/user/UserEdit";
 
-//second comment
-//subBranch comment
 function App() {
   return (
   <Admin dataProvider={restProvider('http://localhost:3000')}>
