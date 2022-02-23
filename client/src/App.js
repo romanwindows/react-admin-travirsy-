@@ -7,7 +7,6 @@ import UserList from "./components/user/UserList";
 import UserCreate from "./components/user/UserCreate";
 import UserEdit from "./components/user/UserEdit";
 
-//test branch (target)
 function App() {
   return (
   <Admin dataProvider={restProvider('http://localhost:3000')}>
@@ -15,6 +14,5 @@ function App() {
     <Resource name='users' list={UserList} create={UserCreate} edit={UserEdit}/>
   </Admin>);
 }
-// comment
-//merged branch comment
+//branch for renaming
 export default App;
